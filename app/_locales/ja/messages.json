@@ -1,0 +1,54 @@
+{
+  "quasar_name": {
+    "message": "XymonTool"
+  },
+  "quasar_description": {
+    "message": "Xymonのステータスを監視するツールです。"
+  },
+  "background_notifications_status_and_count": {
+    "message": "ステータスと数の変化 現在："
+  },
+  "background_notifications_status": {
+    "message": "ステータスの変化"
+  },
+  "background_notifications_count": {
+    "message": "数の変化 現在："
+  },
+  "background_open_changelog_confirm": {
+    "message": "XymonToolが $before$ から $after$ へ更新されました。\n更新内容を確認しますか？",
+    "placeholders": {
+      "before": {"content": "$1"},
+      "after": {"content": "$2"}
+    }
+  },
+  "options_group_settings": {
+    "message": "設定"
+  },
+  "options_xymon_url": {
+    "message": "URL"
+  },
+  "options_xymon_url_example": {
+    "message": "（例 http://www.xymon.com/xymon/nongreen.html）"
+  },
+  "options_group_desktop_notification": {
+    "message": "デスクトップ通知"
+  },
+  "options_desktop_notification_status": {
+    "message": "ステータスの変化時"
+  },
+  "options_desktop_notification_count": {
+    "message": "数の変化時"
+  },
+  "options_group_support": {
+    "message": "サポート"
+  },
+  "options_support_site": {
+    "message": "サイト"
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "キャンセル"
+  }
+}

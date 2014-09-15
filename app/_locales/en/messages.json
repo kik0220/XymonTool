@@ -1,0 +1,54 @@
+{
+  "quasar_name": {
+    "message": "XymonTool"
+  },
+  "quasar_description": {
+    "message": "This tool monitors the status of the Xymon."
+  },
+  "background_notifications_status_and_count": {
+    "message": "Changed Status and Count  Now:"
+  },
+  "background_notifications_status": {
+    "message": "Changed Status"
+  },
+  "background_notifications_count": {
+    "message": "Changed Count  Now:"
+  },
+  "background_open_changelog_confirm": {
+    "message": "XymonTool has been updated to $after$ from $before$.\nDo you want to check updates?",
+    "placeholders": {
+      "before": {"content": "$1"},
+      "after": {"content": "$2"}
+    }
+  },
+  "options_group_settings": {
+    "message": "Setting"
+  },
+  "options_xymon_url": {
+    "message": "URL"
+  },
+  "options_xymon_url_example": {
+    "message": "(ex http://www.xymon.com/xymon/nongreen.html)"
+  },
+  "options_group_desktop_notification": {
+    "message": "Desktop Notification"
+  },
+  "options_desktop_notification_status": {
+    "message": "When change status"
+  },
+  "options_desktop_notification_count": {
+    "message": "When change count"
+  },
+  "options_group_support": {
+    "message": "Support"
+  },
+  "options_support_site": {
+    "message": "Site"
+  },
+  "options_buttons_ok": {
+    "message": "OK"
+  },
+  "options_buttons_cancel": {
+    "message": "Cancel"
+  }
+}

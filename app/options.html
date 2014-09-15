@@ -1,0 +1,50 @@
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <style>
+    .okCancel{
+      float: right;
+    }
+    #fieldXymonUrl {
+      width: 100%;
+    }
+  </style>
+  <title>XymonTool</title>
+  <script type="text/javascript" src="scripts/options.js"></script>
+</head>
+<body>
+<div id="paneGeneral">
+  <fieldset role="group">
+    <legend id="legendSettings"></legend>
+    <div class="option">
+      <label for="fieldXymonUrl" id="labelXymonUrl"></label>
+      <label id="labelXymonUrlEx"></label>
+      <input type="text" name="fieldXymonUrl" id="fieldXymonUrl">
+    </div>
+    <br/>
+    <fieldset role="group">
+      <legend id="legendDesktopNotification"></legend>
+      <div class="option">
+        <input type="checkbox" name="fieldNotificationStatus" id="fieldNotificationStatus">
+        <label for="fieldNotificationStatus" id="labelNotificationStatus"></label>
+      </div>
+      <div class="option">
+        <input type="checkbox" name="fieldNotificationCount" id="fieldNotificationCount">
+        <label for="fieldNotificationCount" id="labelNotificationCount"></label>
+      </div>
+    </fieldset>
+  </fieldset>
+</div>
+<div class="okCancel">
+  <button id="buttonOk" tabindex="0" ></button>
+  <button id="buttonCancel" tabindex="0"></button>
+</div>
+<br/><br/><br/>
+<div id="paneSupport">
+  <fieldset role="group">
+    <legend id="legendSupport"></legend>
+    <a id="supportSite" href="https://sites.google.com/site/xymontool/"></a><br/>
+  </fieldset>
+</div>
+</body>
+</html>
